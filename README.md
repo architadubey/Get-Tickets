@@ -1,4 +1,4 @@
-# BookMyShow Clone
+# Get-Tickets
 
 A React + Vite web application that simulates a movie and event booking platform inspired by BookMyShow.
 
